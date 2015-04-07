@@ -1,5 +1,5 @@
 # JCIDE
-The JCIDE is a powerful javacard development kit. 
+The JCIDE is a powerful javacard development kit for free. 
 
 **What can Development Kit do ?**
 
@@ -17,6 +17,7 @@ The developement kit lets you quickly and easily develop Java Card Applet. It al
 *Edit with visual studio key bindings*
 
 *Real simulate a reader/card*
+
 
 
 Specific as follows:
