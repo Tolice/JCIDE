@@ -8,15 +8,15 @@ The developement kit lets you quickly and easily develop Java Card Applet. It al
 
 **JCIDE is an Integrated Development Environment designed specifically for the JavaCard programming language.**
 
-*Write code faster*
+*1. Write code faster*
 
-*Find and fix bugs quickly*
+*2. Find and fix bugs quickly*
 
-*Navigate code with ease*
+*3. Navigate code with ease*
 
-*Edit with visual studio key bindings*
+*4. Edit with visual studio key bindings*
 
-*Real simulate a reader/card*
+*5. Real simulate a reader/card*
 
 
 
