@@ -43,6 +43,6 @@ Specific as follows:
 
 You can see more: "http://javacos.com/"
 
-You can download JCIDE in "http://javacardos.com/developmentkit.php"
+You can download JCIDE in "http://www.javacardos.com/JCIDE/downloads/JCKit.zip"
 
  
