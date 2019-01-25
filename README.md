@@ -41,8 +41,8 @@ Specific as follows:
 - The virtual smartcard/reader **can simulate a card/reader based on the PCSC communication protocol** in a Windows System, which can be used nearly the same as a real card/reader.
 
 
-For more information, see: "https://javacardos.com/tools" 
-                        or "https://www.javacardos.com/javacardforum/viewforum.php?f=26"
+For more information, you can visit [the introduction of JCIDE](https://javacardos.com/tools?ws=github&prj=jcide)
 
+If you have any questions, please visit: [JCIDE Forum](https://www.javacardos.com/javacardforum/viewforum.php?f=26?ws=github&prj=jcice) to ask.
 
  
