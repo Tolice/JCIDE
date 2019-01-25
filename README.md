@@ -43,6 +43,6 @@ Specific as follows:
 
 For more information, you can visit [the introduction of JCIDE](https://javacardos.com/tools?ws=github&prj=jcide).
 
-If you have any questions, please visit: [JCIDE Forum](https://www.javacardos.com/javacardforum/viewforum.php?f=26?ws=github&prj=jcice) to ask.
+If you have any questions, please visit [JCIDE Forum](https://www.javacardos.com/javacardforum/viewforum.php?f=26?ws=github&prj=jcice) to ask.
 
  
